@@ -1,3 +1,3 @@
 # csgo
-My Counter-Strike Global Offensive config.
-I'm sharing my CS:GO settings here.
+My Counter-Strike 2 config.
+I'm sharing my Counter-Strike 2 settings here.
